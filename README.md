@@ -1,7 +1,3 @@
-Here's a **GitHub Overview** for your project:  
-
----
-
 # **Amazon Product Data Analysis**  
 
 ## **Overview**  
@@ -70,7 +66,3 @@ python analysis.py
 📉 **Time-Series Analysis** – Price trends over time  
 
 🔎 **NLP on Reviews** – Understanding customer sentiment  
-
----
-
-This should make your project look **professional and structured** on GitHub! 🎯 Let me know if you want modifications. 🚀
