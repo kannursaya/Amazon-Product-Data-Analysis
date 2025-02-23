@@ -12,15 +12,10 @@ This project analyzes an **Amazon product dataset**, uncovering insights into pr
 The dataset contains the following key attributes:  
 
 - 🆔 **product_id, user_id, review_id** – Unique identifiers
-- 
 - 🏷️ **product_name, category** – Product details
-- 
 - 💰 **actual_price, discounted_price, discount_percentage** – Pricing information
-- 
 - ⭐ **rating, rating_count** – Customer feedback
-- 
 - 📝 **review_title, review_content** – User reviews
-- 
 - 🔗 **img_link, product_link** – Product images and links  
 
 ## **Key Analysis & Visualizations**  
@@ -39,11 +34,8 @@ The dataset contains the following key attributes:
 ## **Technologies Used**  
 
 - 🐍 **Python** – Data processing and analysis
-- 
 - 📊 **Pandas** – Data manipulation
-- 
 - 📈 **Matplotlib & Seaborn** – Data visualization
-- 
 - 🔢 **NumPy** – Numerical computations  
 
 ## **How to Run**  
